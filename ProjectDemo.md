@@ -24,4 +24,4 @@ JIRA/Confulence platforms and enable maximum code reusability
 ### Project Demo
 ![image](https://github.com/ChazLee001/2020InternshipDemo/blob/master/UPCcatalog.gif)
 <img src="https://github.com/ChazLee001/2020InternshipDemo/blob/master/UPCcatalog.gif" style="zoom:50%" />
-<img src="https://github.com/ChazLee001/2020InternshipDemo/blob/master/UPCcatalog.gif" width = "540" height = "3600" alt="Demo" align=center />
+<img src="https://github.com/ChazLee001/2020InternshipDemo/blob/master/UPCcatalog.gif" width = "540" height = "360" alt="Demo" align=center />
