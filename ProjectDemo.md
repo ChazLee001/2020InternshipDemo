@@ -22,4 +22,4 @@ JIRA/Confulence platforms and enable maximum code reusability
 4. Implemented communication mechanism for multi-threads activities/requests by Intent Service/Corountine/Retrofit2/JSON
 
 ### Project Demo
-
+![image](https://github.com/ChazLee001/ReactTodoList/blob/master/PeekDemo0821TodoList.gif)
