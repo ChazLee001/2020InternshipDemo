@@ -1,4 +1,4 @@
-# 2020InternshipDemo
+# 2020 Software Development Internship Demo
 ### Project Goals
 1. Simplify products scanning process, enable cataloging mismatched products based on item info. ,barcode scanning
 
